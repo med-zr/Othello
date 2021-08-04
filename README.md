@@ -1,6 +1,6 @@
 # Othello
-<p> Programmation d'un jeu d'Othello dans <i>le cadre d'un projet acadéque</i> pour évaluer nos connaissances du <b>langage C</b> et <b>l'interface graphique SDL</b></p>
-<h2> helpful link: </h2>
+<p> programming an Othello game from scratch <i>as an academic project within ENSIAS</i> to test our knowledge of <b>C language</b> and <b>its SDL library</b></p>
+<h2> helpful links : </h2>
 <nav><ul>
 <li><a href="https://en.wikipedia.org/wiki/Reversi">Othello game insight</a></li>
 <li><a href="https://github.com/med-zr/Othello/blob/master/cahier_de_charges.pdf">cahier de charges</a></li>
